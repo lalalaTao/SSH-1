@@ -1,7 +1,8 @@
 ## Employee
 * jsp+servlet+javaBean构成的MVC
 * 员工、部门的增删改查、分页等
-## ssh
+
+## SSH
 1. 开发环境
  * window7
  * eclipse： Mars.2 Release (4.5.2)（插件：springsource-tool,hibernatetools-Update)
@@ -17,8 +18,8 @@
 * 员工的增删改查
 * 部门的增删改查
 
-## SpringMVC
 
+## SpringMVC
 1. 框架版本
 * Spring4.3.4
 * SpringMvc4.3.4
